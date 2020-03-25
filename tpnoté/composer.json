@@ -2,7 +2,7 @@
     "name": "factcli",
     "type" : "project",
 
-    "require":{
+    "require":{ "slim/slim:2.*"
 	"illuminate/database": "5.5.*",
 	"php": ">=7.0"
     },
